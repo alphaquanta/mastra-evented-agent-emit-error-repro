@@ -1,0 +1,12 @@
+{
+  "name": "mastra-evented-agent-emit-error-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "vitest run" },
+  "dependencies": {
+    "@mastra/core": "1.67.0",
+    "ai": "6.0.142",
+    "zod": "4.3.6"
+  },
+  "devDependencies": { "vitest": "4.1.1" }
+}
